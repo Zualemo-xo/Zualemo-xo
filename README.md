@@ -1,4 +1,4 @@
- Hi there! 👋
+<h2> Hi there! 👋</h2>
 <!--
 **Zualemo-xo/Zualemo-xo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
