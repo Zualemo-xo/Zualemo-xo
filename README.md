@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <br><br>
 -My interests include getting lost in the pages of a storybook , Unlocking the secrets of the universe by astronomy, poetry and coding of all sorts! 
 <br><br>
--HMU at maheysh.v2019@vitstudent.ac.in
+-📫HMU at maheysh.v2019@vitstudent.ac.in
