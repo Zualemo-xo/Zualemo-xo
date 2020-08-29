@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br><br>
 -A few significant Projects I've worked on:<br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=COVID-19-Twitter-Sentiment-Dashboard)](https://github.com/Zualemo-xo/COVID-19-Twitter-Sentiment-Dashboard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=My-Portfolio)](https://github.com/Zualemo-xo/My-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=My-Portfolio)]()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Online-Voting-Management-System)](https://github.com/Zualemo-xo/Online-Voting-Management-System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=HTML-Tutorial)](https://github.com/Zualemo-xo/HTML-Tutorial)
 <br><br>
