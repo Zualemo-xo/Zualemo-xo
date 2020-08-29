@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br><br>
 -💬 Beginning with C++ in my schooling days, my passion for Computer Science is always ablaze! I am currently exploring various domains including Competitive Programming, Front-End Development, Back-End Development, Game Development and Machine Learning to further broaden my exposure.
 <br><br>
--A few Projects I've worked on:<br><br>
+-A few significant Projects I've worked on:<br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=COVID-19-Twitter-Sentiment-Dashboard)](https://github.com/Zualemo-xo/COVID-19-Twitter-Sentiment-Dashboard)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=My-Portfolio)](https://github.com/Zualemo-xo/My-Portfolio)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Online-Voting-Management-System)](https://github.com/Zualemo-xo/Online-Voting-Management-System)
