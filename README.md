@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <br><br>
 -A few Projects I've worked on:<br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=COVID-19-Twitter-Sentiment-Dashboard)](https://github.com/Zualemo-xo/COVID-19-Twitter-Sentiment-Dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=My-Portfolio)](https://github.com/Zualemo-xo/My-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Online-Voting-Management-System)](https://github.com/Zualemo-xo/Online-Voting-Management-System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=HTML-Tutorial)](https://github.com/Zualemo-xo/HTML-Tutorial)
 <br><br>
 -My interests include getting lost in the pages of a storybook , Unlocking the secrets of the universe by astronomy, poetry and coding of all sorts! 
