@@ -28,7 +28,7 @@ Hello fellow User for reaching my readme :))
 -⚡ Born and brought up in Singapore, my schooling began at Chongfu Primary School.After returning to India,my education continued at SBOA school and Junior College till my graduation . Presently,I am taking up a B. Tech Computer Science course in Vit University, Chennai .
 <br><br>
 -💬 Beginning with C++ in my schooling days, my passion for Computer Science is always ablaze! I am currently exploring various domains including Competitive Programming, Front-End Development, Back-End Development, Game Development and Machine Learning to further broaden my exposure.
-<br>
+<br><br>
 
 </p>
 
@@ -36,9 +36,9 @@ Hello fellow User for reaching my readme :))
 <!-- [![Maheysh's github stats](https://github-readme-stats.vercel.app/api?username=Zualemo-xo&theme=chartreuse-dark&show_icons=true)](https://github.com/Zualemo-xo)
 
 [![Maheysh's github stats](https://github-readme-stats.vercel.app/api?username=Zualemo-xo&theme=chartreuse-dark&show_icons=true)](https://github.com/Zualemo-xo) -->
-<br>
 
-## 🔭 A few Significant Projects I've worked on:<br><br>
+
+## 🔭 A few Significant Projects I've worked on:
 
 <table>
   <tr>
