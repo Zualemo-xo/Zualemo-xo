@@ -29,7 +29,6 @@ Hello fellow User for reaching my readme :))
 <br><br>
 -💬 Beginning with C++ in my schooling days, my passion for Computer Science is always ablaze! I am currently exploring various domains including Competitive Programming, Front-End Development, Back-End Development, Game Development and Machine Learning to further broaden my exposure.
 <br><br>
-
 </p>
 
 
