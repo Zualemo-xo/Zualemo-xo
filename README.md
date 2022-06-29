@@ -38,27 +38,25 @@ Hello fellow User for reaching my readme :))
 
 
 ## 🔭 A few Significant Projects I've worked on:
-
+<!--
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=COVID-19-Twitter-Sentiment-Dashboard"  display=block width=100% height=auto alt="Proj"></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=VITMeeT"  display=block width=100% height=auto alt="ZualemoProj" /></td>
   </tr>
     <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=My-Portfolio"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Suicide-HelpLine-Predictor-Analyzer"  display=block width=100% height=auto alt="1" href="https://github.com/Zualemo-xo/Suicide-HelpLine-Predictor-Analyzer"></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Online-Proctoring-and-Facial-Tracking-"  display=block width=100% height=auto alt="ZualemoProj" /></td>
    </tr>
-<!--     <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Zualemo-xo&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="Proj"></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zualemo-xo&theme=chartreuse-dark"  display=block width=100% height=auto alt="ZualemoProj" /></td>
-   </tr> -->
+
   </table>
+-->
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=COVID-19-Twitter-Sentiment-Dashboard)](https://github.com/Zualemo-xo/COVID-19-Twitter-Sentiment-Dashboard) -->
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Online-Proctoring-and-Facial-Tracking-)](https://github.com/Zualemo-xo/Online-Proctoring-and-Facial-Tracking-) -->
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=My-Portfolio)](https://github.com/Zualemo-xo/My-Portfolio) -->
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=VITMeeT)](https://github.com/Zualemo-xo/VITMeeT) -->
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=COVID-19-Twitter-Sentiment-Dashboard)](https://github.com/Zualemo-xo/COVID-19-Twitter-Sentiment-Dashboard) 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Online-Proctoring-and-Facial-Tracking-)](https://github.com/Zualemo-xo/Online-Proctoring-and-Facial-Tracking-) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Suicide-HelpLine-Predictor-Analyzer)](https://github.com/Zualemo-xo/Suicide-HelpLine-Predictor-Analyzer) 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=VITMeeT)](https://github.com/Zualemo-xo/VITMeeT)
+ 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Online-Voting-Management-System)](https://github.com/Zualemo-xo/Online-Voting-Management-System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=HTML-Tutorial)](https://github.com/Zualemo-xo/HTML-Tutorial)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zualemo-xo&theme=dark&repo=Train-Reservation-and-Cancellation-System)](https://github.com/Zualemo-xo/Train-Reservation-and-Cancellation-System)
