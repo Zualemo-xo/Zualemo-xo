@@ -31,6 +31,7 @@ Hello fellow User for reaching my readme :))
 <br><br>
 </p>
 
+[![@zualemo's Holopin board](https://holopin.me/zualemo)](https://holopin.io/@zualemo)
 
 <!-- [![Maheysh's github stats](https://github-readme-stats.vercel.app/api?username=Zualemo-xo&theme=chartreuse-dark&show_icons=true)](https://github.com/Zualemo-xo)
 
