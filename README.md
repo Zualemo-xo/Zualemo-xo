@@ -67,4 +67,4 @@ Hello fellow User for reaching my readme :))
 ## 👯 Outside the Coding World
 -My interests include getting lost in the pages of a storybook , Unlocking the secrets of the universe by astronomy, Poetry and coding of all sorts! 
 <br><br>
--📫HMU at maheysh.v2019@vitstudent.ac.in
+-📫HMU at vmaheysh@gmail.com
